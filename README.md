@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Blind Box Customization Website - 3D Model Showcase
 
 This project is a blind box customization website built with [Next.js](https://nextjs.org/) and [Three.js](https://threejs.org/). Users can upload images, and we will create corresponding 3D models to display on the website. The site includes dynamic scrolling animations, 3D model rendering, and a clean navigation layout.
