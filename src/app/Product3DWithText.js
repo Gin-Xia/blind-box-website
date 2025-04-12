@@ -64,22 +64,23 @@ const Product3DWithTimeline = ({ modelPath }) => {
         // 创建 Timeline 和 ScrollTrigger
         const timeline = gsap.timeline({
             scrollTrigger: {
-                trigger: containerRef.current.firstChild, // 确保目标正确
+                trigger: containerRef.current.firstChild,
                 start: 'top top',
-                end: '200%',
+                end: '+=300%',
                 scrub: 1,
+                pin: true, // 固定模型区域
+                pinSpacing: true,
+                anticipatePin: 1,
                 markers: true,
-                //pin: true, // 固定模型区域
             },
         })
 
         // 添加动画到 Timeline
         timeline.to(phiRef.current, {
             current: Math.PI * 2, // 一圈旋转
-            
+            ease: "none",
+            duration: 1,
             onUpdate: () => {
-                console.log('canvas:', containerRef.current.firstChild)
-                //console.log('Current phi:', phiRef.current.current) // 调试
                 updateCameraPosition(phiRef.current.current)
             },
         })

@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "src\\app\\page.js",
               "ToolTip": "C:\\Users\\xia01\\Desktop\\blind-box-website\\src\\app\\page.js",
               "RelativeToolTip": "src\\app\\page.js",
-              "ViewState": "AgIAACEAAAAAAAAAAAAswC8AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-12-17T22:49:29.564Z",
               "IsPinned": true,
@@ -52,8 +52,7 @@
               "RelativeToolTip": "next.config.mjs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-23T05:49:54.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T05:49:54.963Z"
             },
             {
               "$type": "Document",
@@ -65,8 +64,7 @@
               "RelativeToolTip": "src\\app\\Product3DWithText.js",
               "ViewState": "AgIAAEoAAAAAAAAAAAAwwFYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-20T00:52:54.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T00:52:54.067Z"
             },
             {
               "$type": "Document",
@@ -78,8 +76,7 @@
               "RelativeToolTip": "src\\app\\ProductShowcase.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-20T00:07:51.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T00:07:51.579Z"
             }
           ]
         }
